@@ -1,0 +1,4 @@
+github.com/go-standard-lib/map v0.0.0-20230607215011-58790e548cb6 h1:bcFsOsdbvpKzWxinWn1X1KdK7bl6p0TTZBlT4zW4OhU=
+github.com/go-standard-lib/map v0.0.0-20230607215011-58790e548cb6/go.mod h1:LBV8XOp/WvOnTt9XYJK6dL4yPdx2gQFWf/b8SgX0AK4=
+github.com/go-standard-lib/map v1.0.0 h1:3zElcs5g50ADaWFv/chRZEdFt6CmGXrXmHr/Cpy6tRw=
+github.com/go-standard-lib/map v1.0.0/go.mod h1:LBV8XOp/WvOnTt9XYJK6dL4yPdx2gQFWf/b8SgX0AK4=
